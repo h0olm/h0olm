@@ -38,21 +38,11 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png"
       alt="cs" width="40" height="40" /> </a>
       
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSGu4R9Be5IDbtp0pl4EAr0tlj7SPIEXDBfA&usqp=CAU"
-      alt="cs" width="40" height="40" /> </a>
       
 <a href="https://en.wikipedia.org/wiki/Content_management_system" target="_blank" rel="noreferrer"> 
     <img src="https://softprodigy.com/wp-content/uploads/2019/06/cms.png" alt="cms"
       width="40" height="40" /> </a> 
-      
-<a href="https://en.wikipedia.org/wiki/Cloud_storage" target="_blank" rel="noreferrer"> 
-    <img src="https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/08/Fotolia_128673803_Subscription_Monthly_M.jpg"
-      alt="react" width="40" height="40" /> </a> 
-    
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+
 
 <br>
 
