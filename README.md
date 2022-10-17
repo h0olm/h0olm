@@ -9,10 +9,10 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="400"/></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300"/></p>
 
 
-- 🌱 I’m currently learning Web Development.NET and other programming languages
+- 🌱 I’m currently learning Web Development .NET and other programming languages
 
 
 
