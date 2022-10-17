@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elliot Holm</h1>
-<h3 align="center">Student at EC🌟.</h3>
+<h3 align="center">Student at EC Utbildning🌟</h3>
 
 <br>
 
@@ -9,10 +9,10 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="400"/></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development.NET and other programming languages
 
 
 
@@ -41,6 +41,10 @@
       
 <a href="https://en.wikipedia.org/wiki/Content_management_system" target="_blank" rel="noreferrer"> 
     <img src="https://softprodigy.com/wp-content/uploads/2019/06/cms.png" alt="cms"
+      width="40" height="40" /> </a> 
+    
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc"
       width="40" height="40" /> </a> 
 
 
